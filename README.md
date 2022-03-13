@@ -8,8 +8,7 @@ Evernote clone is a basic note taking application similar in functionality to Ev
 
 ### Author Details:
 <p>Name     : Hritik Shyam Gupta</p>
-<p>Position : Web Developer Intern, Let's Grow More</p>
-<p>Badges   : LGMVIP</p>
+
 --------------------------------------------------------------
 
 ### Features
