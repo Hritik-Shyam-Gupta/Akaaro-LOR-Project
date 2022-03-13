@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+# Project Description!
+
+This is a LOR Project for Akaaro Training and Consultancy of which the topic that I took is 'creating a Note Taking Web Application (An Evernote Clone)'
+
+Evernote clone is a basic note taking application similar in functionality to Evernote.
+
+<br>
+
+### Author Details:
+<p>Name     : Hritik Shyam Gupta</p>
+<p>Position : Web Developer Intern, Let's Grow More</p>
+<p>Badges   : LGMVIP</p>
+--------------------------------------------------------------
+
+### Features
+* Create note
+* Select note
+* Modify note
+* Delete note
+* Notes organized by most recently updated
+* Firestore initialization
+* User note collection modification
+
+### Technologies Stack
+* ReactJS (Classes)
+* React Quill Editor
+* Material UI/Core
+* React Router DOM
+* Firebase - Auth - Firestore
+
+
+# Evernote Clone (ReactJS - Firebase)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,7 +46,7 @@ Once finished, make sure your .env file (or whatever you rename it to) is includ
 - Create a project(web) and a cloud firestore Databse on Firebase in your account.
 - Setup Sign-in method by enabling email/password in Authentication tab.
 
-###First Step
+### First Step
 
 - cd into the Evernote-editor directory
 
